@@ -1,0 +1,10 @@
+package com.git.gitLearn;
+
+public class newClass {
+
+	public void test() {
+		// TODO Auto-generated method stub
+		System.out.println("用来测试的");
+	}
+
+}
