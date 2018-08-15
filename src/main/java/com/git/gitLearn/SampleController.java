@@ -18,5 +18,8 @@ public class SampleController {
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SampleController.class, args);
 	}
+	public static void test(){
+		System.out.println("输出点啥");
+	}
 
 }
