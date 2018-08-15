@@ -22,6 +22,7 @@ public class SampleController {
 		System.out.println("输出点啥");
 	}
 	public static void test1(){
+		System.out.println();//随便写了些东西
 		System.out.println("eclipse 添加的代码");
  
 	}
