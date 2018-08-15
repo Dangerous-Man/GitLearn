@@ -22,6 +22,7 @@ public class SampleController {
 		int i = 0;
 		i++;//这是一些新加的代码
 		System.out.println("输出点啥");
+		System.out.println("i");//这边又输出了些东西
 	}
 	public static void test1(){
 		System.out.println();//随便写了些东西
