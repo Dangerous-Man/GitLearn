@@ -19,6 +19,8 @@ public class SampleController {
 		SpringApplication.run(SampleController.class, args);
 	}
 	public static void test(){
+		int i = 0;
+		i++;//这是一些新加的代码
 		System.out.println("输出点啥");
 	}
 	public static void test1(){
