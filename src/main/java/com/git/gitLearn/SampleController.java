@@ -19,8 +19,6 @@ public class SampleController {
 		SpringApplication.run(SampleController.class, args);
 	}
 	public static void test(){
-		int i = 0;
-		i++;
 		System.out.println("输出点啥");
 	}
 	public static void test1(){
