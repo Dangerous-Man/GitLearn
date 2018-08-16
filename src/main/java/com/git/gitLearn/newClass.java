@@ -13,6 +13,9 @@ public class newClass {
 		i++;
 		System.out.println(i);
 		System.out.println("让我们一起摇摆");
+		for (; i < 10; i++) {
+			System.out.println("随便输出点东西");
+		}
 		
 	}
 }
