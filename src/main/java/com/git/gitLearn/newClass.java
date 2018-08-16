@@ -7,9 +7,11 @@ public class newClass {
 		System.out.println("用来测试的");
 	}
 	
-	public statci void test(){
+	public static void test(){
 		System.out.println("测试用例");
+		int i =0 ;
+		i++;
+		System.out.println(i);
+		
 	}
-		
-		
 }
