@@ -6,5 +6,10 @@ public class newClass {
 		// TODO Auto-generated method stub
 		System.out.println("用来测试的");
 	}
-
+	
+	public statci void test(){
+		System.out.println("测试用例");
+	}
+		
+		
 }
