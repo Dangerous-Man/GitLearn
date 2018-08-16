@@ -9,10 +9,10 @@ public class newClass {
 	
 	public static void test(){
 		System.out.println("测试用例");
-		int i =0 ;
+		long i =0 ;
 		i++;
 		System.out.println(i);
-		System.out.println("让我们一起摇摆");
+		System.out.println("改一些输入值");
 		for (; i < 10; i++) {
 			System.out.println("随便输出点东西");
 		}
