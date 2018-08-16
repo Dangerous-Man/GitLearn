@@ -12,6 +12,7 @@ public class newClass {
 		int i =0 ;
 		i++;
 		System.out.println(i);
+		System.out.println("让我们一起摇摆");
 		
 	}
 }
